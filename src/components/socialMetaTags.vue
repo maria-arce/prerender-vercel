@@ -48,7 +48,7 @@
 <script>
 export default{
     props:{
-        title:String,
+        Title:String,
         pageDescription:String,
         socialImg:String
     }
