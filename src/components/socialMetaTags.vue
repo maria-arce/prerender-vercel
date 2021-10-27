@@ -8,12 +8,12 @@
       :content="Title"
     />
     <meta name="twitter:site"
-    content="Paint to sample - Porsche" />
+    content="Testing meta tags" />
     <meta property="og:type" content="website">
     <meta name="twitter:card"
     content="summary"/>
      <meta name="twitter:creator"
-    content=" @Porsche"/>
+    content=" @Username"/>
     <meta
       name="description"
       :content="pageDescription"
